@@ -1,0 +1,30 @@
+::selection {
+  background: #323;
+  color: #de1;
+}
+
+:any-link {
+  background: hotpink;
+  color: inherit;
+  transition: 333ms ease-out;
+}
+
+:any-link:only-child {
+  background: salmon;
+}
+
+:focus {
+  filter: hue-rotate(-36deg);
+  outline: .2ch double;
+}
+
+:active {
+  filter: hue-rotate(-72deg);
+}
+
+html {
+  background: mediumpurple;
+  background-image: linear-gradient(0turn, #1ed 0%, transparent 38%, transparent 62%, #cd2);
+  color: #121113;
+  transition: 333ms ease-in;
+}

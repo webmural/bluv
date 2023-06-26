@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <title>ozone</title>
+  <style>
+    svg {
+      background: mediumpurple;
+      background-image: linear-gradient(0turn, #1ed 0%, transparent 38%, transparent 62%, #cd2);
+    }
+  </style>
+</svg>
