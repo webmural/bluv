@@ -1,5 +1,3 @@
-### [O3 mural](https://webmural.com/o3)
+### [`bluv` mural](https://webmural.com/bluv)
 
-* [ozone figure](index.html)
-* [ultra flex](ultra.css)
-* [violet flow](violet.css)
+[`tape` sample](https://s9a.page/tape)
